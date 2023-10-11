@@ -6,7 +6,7 @@ namespace UpdateSetting
     {
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
-            MessageBox.Show("Hello nice to meet you");
+            MessageBox.Show("Hello nice to meet you!");
         }
 
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)
